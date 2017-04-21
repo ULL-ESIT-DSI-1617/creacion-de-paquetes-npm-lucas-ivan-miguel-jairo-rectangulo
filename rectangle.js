@@ -1,3 +1,4 @@
+'use strict'
 var nuevo = require('ull-shape-lucas-ivan-miguel-jairo');
 var Shape = nuevo.Shape
 class Rectangle extends Shape {
@@ -21,6 +22,6 @@ class Rectangle extends Shape {
 
 module.exports = { Rectangle: Rectangle };
 
-pepe = new Rectangle({width:2,height:2});
+var pepe = new Rectangle({width:2,height:2});
 
 console.log (pepe.getArea())
