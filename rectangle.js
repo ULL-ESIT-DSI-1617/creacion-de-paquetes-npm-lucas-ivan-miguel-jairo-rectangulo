@@ -22,6 +22,3 @@ class Rectangle extends Shape {
 
 module.exports = { Rectangle: Rectangle };
 
-var pepe = new Rectangle({width:2,height:2});
-
-console.log (pepe.getArea())
