@@ -1,5 +1,5 @@
 # Creación de paquetes npm
-## Paquete ull-shape-rectangulo-lucas-ivan-miguel-jairo
+## Paquete ull-shape-rectangle-lucas-ivan-miguel-jairo
 
 
 
