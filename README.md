@@ -1,5 +1,5 @@
 # Creación de paquetes npm
-## Paquete ull-shape-cuadrado-lucas-ivan-miguel-jairo
+## Paquete ull-shape-rectangulo-lucas-ivan-miguel-jairo
 
 
 
@@ -7,7 +7,7 @@ Primer paso:
 
 
 ```
-npm install ull-shape-cuadrado-lucas-ivan-miguel-jairo
+npm install ull-shape-rectangle-lucas-ivan-miguel-jairo
 ```
 Segundo paso, incluír el paquete en tu programa:
 
@@ -16,7 +16,7 @@ require('ull-shape-lucas-ivan-miguel-jairo')
 ```
 y
 ```javascript
-require('ull-shape-cuadrado-lucas-ivan-miguel-jairo')
+require('ull-shape-rectangle-lucas-ivan-miguel-jairo')
 ```
 ## Enlaces gh-pages
 * [Enlace gh-pages Shape](https://ull-esit-dsi-1617.github.io/creacion-de-paquetes-npm-lucas-ivan-miguel-jairo/)
@@ -24,7 +24,7 @@ require('ull-shape-cuadrado-lucas-ivan-miguel-jairo')
 * [Enlace gh-pages Triangle](https://ull-esit-dsi-1617.github.io/creacion-de-paquetes-npm-lucas-ivan-miguel-jairo-triangulo/)
 * [Enlace gh-pages Rectangle](https://ull-esit-dsi-1617.github.io/creacion-de-paquetes-npm-lucas-ivan-miguel-jairo-rectangulo/)
 
-## Enlaces a repositorio¡
+## Enlaces a repositorio
 * [Enlace a repositorio del paquete ull-shape-lucas-ivan-miguel-jairo](https://github.com/ULL-ESIT-DSI-1617/creacion-de-paquetes-npm-lucas-ivan-miguel-jairo)
 * [Enlace a repositorio del paquete ull-shape-triangulo-lucas-ivan-miguel-jairo](https://github.com/ULL-ESIT-DSI-1617/creacion-de-paquetes-npm-lucas-ivan-miguel-jairo-triangulo)
 * [Enlace a repositorio del paquete ull-shape-cuadrado-lucas-ivan-miguel-jairo](https://github.com/ULL-ESIT-DSI-1617/creacion-de-paquetes-npm-lucas-ivan-miguel-jairo-cuadrado)
