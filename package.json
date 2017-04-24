@@ -2,13 +2,14 @@
   "name": "ull-shape-rectangle-lucas-ivan-miguel-jairo",
   "version": "1.0.5",
   "description": "",
-  "main": "ull-shape-rectangle-lucas-ivan-miguel-jairo.js",
+  "main": "rectangle.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "",
   "license": "ISC",
-  "devDependencies": {
+ 
+   "dependencies": {
     "ull-shape-lucas-ivan-miguel-jairo": "^1.0.1"
   }
 }
