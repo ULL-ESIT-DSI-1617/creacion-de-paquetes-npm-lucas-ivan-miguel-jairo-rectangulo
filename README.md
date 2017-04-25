@@ -1,6 +1,7 @@
 # Creación de paquetes npm
 ## Paquete ull-shape-rectangle-lucas-ivan-miguel-jairo
 
+[![Build Status](https://travis-ci.org/ULL-ESIT-DSI-1617/creacion-de-paquetes-npm-lucas-ivan-miguel-jairo-rectangulo.svg?branch=master)](https://travis-ci.org/ULL-ESIT-DSI-1617/creacion-de-paquetes-npm-lucas-ivan-miguel-jairo-rectangulo)
 
 
 Primer paso:
